@@ -1,6 +1,4 @@
-build/
+/build/
 .DS_Store
 *.csv
 *.o
-apex
-apex_tests
